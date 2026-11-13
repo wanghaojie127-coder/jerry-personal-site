@@ -1,0 +1,3 @@
+Noto Serif SC, SIL Open Font License 1.1
+Source: https://fonts.google.com/noto/specimen/Noto+Serif+SC
+Subset served by Google Fonts for this site’s display headings.
